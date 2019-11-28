@@ -17,7 +17,7 @@
 - [:rocket: Quick start](#rocket-quick-start)
   - [1. Make this repository yours](#1-make-this-repository-yours)
   - [2. Install the required dependencies](#2-install-the-required-dependencies)
-  - [3. Provision your local machine and deploy the example stack](#3-provision-your-local-machine-and-deploy-the-example-stack)
+  - [3. Provision your local machine and deploy the example stack](#3-provision-your-local-machine-and-deploy-the-example-stack) THIS IS A TEST
   - [4. Write your own Docker Swarm Compose files](#4-write-your-own-docker-swarm-compose-files)
   - [5. Test on a Vagrant cluster](#5-test-on-a-vagrant-cluster)
   - [6. Edit and encrypt your production environment variables](#6-edit-and-encrypt-your-production-environment-variables)
